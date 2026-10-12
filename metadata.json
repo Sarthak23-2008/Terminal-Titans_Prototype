@@ -1,0 +1,6 @@
+{
+  "name": "Invest360 - Unified Investment Intelligence",
+  "description": "Unified investment intelligence platform aggregating multi-broker holdings, asset allocation, portfolio concentration, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
